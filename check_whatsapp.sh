@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables
-CHAT_ID="+5216421179635"
-TOKEN="dzs0ya9edahg3opk"
+CHAT_ID="+521xxxxxxxxxx" # The phone number to check with country area code
+TOKEN="your_token"
 LOG_LEVEL="INFO"  # Set the desired log level here
 
 # Export the LOG_LEVEL variable
