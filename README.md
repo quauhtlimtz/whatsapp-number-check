@@ -35,7 +35,7 @@ This project provides a Python script and a shell script to check if a phone num
 
     ```sh
     # Variables
-    CHAT_ID="+5216421179635"
+    CHAT_ID="+521xxxxxxxxxx"
     TOKEN="your_ultramsg_api_token"
     INSTANCE_ID="your_instance_id"
     LOG_LEVEL="DEBUG"  # Set the desired log level here
@@ -64,7 +64,7 @@ This project provides a Python script and a shell script to check if a phone num
 ### Example Output
 
 ```plaintext
-2024-07-04 09:49:43,191 - root - INFO - The number +5216421179635 is registered on WhatsApp.
+2024-07-04 09:49:43,191 - root - INFO - The number +521xxxxxxxxxx is registered on WhatsApp.
 ```
 
 ## Contributing
